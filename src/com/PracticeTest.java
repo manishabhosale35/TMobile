@@ -8,23 +8,16 @@ public class PracticeTest {
 
 
 			Scanner sc = new Scanner(System.in);
-
-			System.out.println("Enter a number");
-			int num = sc.nextInt();
-
-			// by using if else
-			if (num % 2 == 0) {
-				System.out.println("Num is Even number");
-			} else {
-				System.out.println("Num is odd Number");
-			}
-			System.out.println("===============================================================");
-			// by using Ternary Operator
-
-			String EvenOdd = (num % 2 == 0) ? "even" : "odd";
-			System.out.println(" num is " + EvenOdd + " Number");
+			System.out.println("Enter your first number");
+			int num1 = sc.nextInt();
+			System.out.println("Enter your second number");
+			int num2 = sc.nextInt();
+			System.out.println("Enter your third number");
+			int num3 = sc.nextInt();
 			
+			System.out.println("11111111111111111111111111111");
 			
+			System.out.println("2222222222222222222222222");
 		}
 
 	}
