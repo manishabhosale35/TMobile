@@ -13,6 +13,10 @@ public class PracticeTest {
 			int num2 = sc.nextInt();
 			System.out.println("Enter your third number");
 			int num3 = sc.nextInt();
+			
+			System.out.println("1111111111111111111111111");
+			
+			System.out.println("22222222222222222222222222");
 		}
 
 	}
